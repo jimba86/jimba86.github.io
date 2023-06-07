@@ -17,22 +17,22 @@
 
 # Language of your content in 2-letter code, e.g.: en, de.
 # You may also provide a location, e.g.: en-us, de_AT.
-lang:                  ko-KR, en-US
+lang:                  en-AU, no-nb
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Jimba
+title:                 James Watson
 
 timezone:              Brisbane, Australia
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  Work Hard to be Lazy.
-  SW Engineer at Samsung Research.
+  What does that Do?.
+  Aspiring Cyber Guru.
 
 # A shorter description for the sidebar.
 tagline:               >
-  Work Hard to be Lazy.
+  Cann you hackk it for me, Bro?.
 
 # A list of keywords for your blog
 keywords:              ["Development", "Gaming", "Overclocking", "Cyber"]
