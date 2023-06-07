@@ -20,9 +20,9 @@
 lang:                  ko-KR, en-US
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Lazy Ren
+title:                 Jimba
 
-timezone:              Asia/Seoul
+timezone:              Brisbane, Australia
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
@@ -35,7 +35,7 @@ tagline:               >
   Work Hard to be Lazy.
 
 # A list of keywords for your blog
-keywords:              ["Development", "C++", "Rust", "Jekyll"]
+keywords:              ["Development", "Gaming", "Overclocking", "Cyber"]
 
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
@@ -49,9 +49,9 @@ author:
   email:               jamiewatson62@gmail.com
   picture:             /assets/img/seattle.png
   social:
-    linkedin:          daein-lee-3b6ba9139
+    linkedin:          james-watson-34348aa1
     github:            jimba86
-    stackoverflow:     4294737
+    stackoverflow:     
     email:             jamiewatson62@gmail.com
 
 # Add links to the footer.
@@ -67,7 +67,7 @@ legal:
 #     url:               /CHANGELOG/
 
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright:             © 2022. All rights reserved.
+copyright:             © 2023. All rights reserved.
 
 # Format of the permalinks
 # permalink:             /blog/:categories/:year-:month-:day-:title/
@@ -141,13 +141,13 @@ defaults:
 
   # Don't include site verification file(for google) in the sitemap
   - scope:
-      path:            google93abcae935f31b7d.html
+      path:            
     values:
       sitemap:         false
 
   # Don't include site verification file(for naver) in the sitemap
   - scope:
-      path:            navera03014a241218f942080c56d67e79469.html
+      path:            
     values:
       sitemap:         false
 
@@ -189,7 +189,7 @@ kramdown:
 
 # Set your Google Analytics id to receive `pageview` events.
 # To remove Google Analytics from your page, remove the line below.
-google_analytics:      UA-68290006-3
+google_analytics:      
 
 # Set which comment system to use
 comments:
@@ -212,17 +212,17 @@ comments:
 # You must install giscus github app before use.(https://github.com/apps/giscus)
 # Make sure all variables are set properly. Check below link for detail.
 # https://giscus.vercel.app/
-giscus:
-  repo:                "LazyRen/LazyRen.github.io"
-  repo-id:             "MDEwOlJlcG9zaXRvcnkyNzU4Mjk1NTc="
-  category:            "Comments"
-  category-id:         "DIC_kwDOEHDTNc4B-MIg"
-  mapping:             "pathname"
-  reaction-enabled:    "1"
-  data-emit-metadata:  "0"
-  theme:               "dark_dimmed"
-  data-lang:           "en"
-  crossorigin:         "anonymous"
+# giscus:
+ # repo:                "LazyRen/LazyRen.github.io"
+#  repo-id:             "MDEwOlJlcG9zaXRvcnkyNzU4Mjk1NTc="
+#  category:            "Comments"
+#  category-id:         "DIC_kwDOEHDTNc4B-MIg"
+#  mapping:             "pathname"
+#  reaction-enabled:    "1"
+#  data-emit-metadata:  "0"
+#  theme:               "dark_dimmed"
+#  data-lang:           "en"
+#  crossorigin:         "anonymous"
 
 lightbox:              true
 
