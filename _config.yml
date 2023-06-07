@@ -45,14 +45,14 @@ logo:                  /assets/img/seattle.png
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   # Used by `jekyll-feed`:
-  name:                DaeIn Lee
-  email:               daein0lee@gmail.com
+  name:                James Watson
+  email:               jamiewatson62@gmail.com
   picture:             /assets/img/seattle.png
   social:
     linkedin:          daein-lee-3b6ba9139
-    github:            lazyren
+    github:            jimba86
     stackoverflow:     4294737
-    email:             daein0lee@gmail.com
+    email:             jamiewatson62@gmail.com
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
