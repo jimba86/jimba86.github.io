@@ -1,4 +1,4 @@
-# Lazy Ren's Blog
+# James Watson Personal Website
 
 ## [About Me]
 
