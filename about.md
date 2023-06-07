@@ -60,8 +60,8 @@ based on the jekyll theme [Hydejack].
 
 <!-- Links -->
 []: 
-[Hanyang University]: https://www.hanyang.ac.kr/
-[heavy gamer]: https://steamcommunity.com/id/lazyren
+[Queensland University of Technology]: https://www.qut.edu.au/
+[heavy gamer]: https://steamcommunity.com/profiles/76561198009938890
 [resume]: /resume/
 [original post]: http://blog.vivekmahbubani.com/2007/03/work-hard-to-be-lazy.html
 [Hydejack]: https://hydejack.com
