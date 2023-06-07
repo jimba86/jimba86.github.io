@@ -3,8 +3,8 @@ layout: tag-list
 type: tag
 title: Windows
 slug: windows
-category: devlog
+category: Cyber
 sidebar: false
 description: >
-   Windows related articles
+    Articles related to Microsoft Windows
 ---
