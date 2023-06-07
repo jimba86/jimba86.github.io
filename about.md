@@ -9,10 +9,10 @@ order: 1
 
 ## Hello, World!
 
-Hi, I'm **DaeIn Lee**, *a.k.a.* **Lazy Ren**.<br>
-I'm currently working at **[SAP Labs Korea]**, and previsouly was CSE student of **[Hanyang University]**.<br>
+Hi, I'm **James Watson**, *a.k.a.* **jimba**.<br>
+I'm currently working at **[SAP Labs Korea]**, and previsouly was MIT student of **[Queensland University of Technology]**.<br>
 I like to solve brain teasing problems in field of CSE (probably the reason I liked multi-core programming / OS courses).<br>
-And I'm also a [heavy gamer]!<br>
+And I'm also a [Computer overclockier with a goal of joing XOC and spraying LN2 on computer hardware! Besides that im a keen gamer]!<br>
 Pleaseh check my [resume] if you wish to know more about me.
 
 ***
