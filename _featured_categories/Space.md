@@ -1,5 +1,6 @@
 ---
 layout: grid
+type: category
 title: Space
 slug: Space
 description: > 
