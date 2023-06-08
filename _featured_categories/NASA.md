@@ -1,5 +1,6 @@
 ---
 layout: grid
+type: category
 title: NASA
 slug: NASA
 description: > 
