@@ -6,7 +6,7 @@ description: >
  category: review
 tags:     hardware
 image:
-  path:   /assets/img/2020-06-28/g9.jpg
+  path:   assets/img/2023-05-04/UA Apollo.jpg
 sitemap: false
 hide_last_modified: true
 ---
