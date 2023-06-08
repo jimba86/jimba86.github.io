@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "What is Hwbot?"
-subtitle: "Hwbot.org - An Explanier"
+subtitle: "Hwbot.org - An Explainer"
 category: OC
 tags: OC
 image:
