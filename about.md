@@ -49,6 +49,7 @@ _My motto to live by._
 
 Site created by James Watson on August 22. 2022 in Brisbane,<br>
 based on the jekyll theme [Hydejack].
+Currently under construction.
 
 ***
 
