@@ -40,14 +40,14 @@ keywords:              ["Development", "Overclocking", "Game Devlopment", "Cyber
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
 # It also used by the `jekyll-seo-tag` plugin.
-logo:                  /assets/img/seattle.png
+logo:                  assets/img/Jamie profile picture (Medium).JPG
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   # Used by `jekyll-feed`:
   name:                James Watson
   email:               jamiewatson62@gmail.com
-  picture:             /assets/img/seattle.png
+  picture:             assets/img/Jamie profile picture (Medium).JPG
   social:
     linkedin:          james-watson-34348aa1/
     github:            jimba86
