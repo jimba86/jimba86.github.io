@@ -4,7 +4,7 @@ type: tag
 title: Collie Carnage
 slug: Game dev
 category: collie carnage
-sidebar: False
+sidebar: True
 description: >
   Post about the Devlopment of the video Game - Collie Carnage - Crazy Border Collie Adventures
 ---
