@@ -2,7 +2,7 @@
 layout: tag-list
 type: tag
 title: Collie Carnage
-slug: collie carnage
+slug: Game dev
 category: collie carnage
 sidebar: False
 description: >
