@@ -1,5 +1,6 @@
 ---
 layout: list
+type: category
 title: Collie Carnage
 slug: Collie carnage
 description: > 
