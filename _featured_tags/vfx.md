@@ -4,7 +4,7 @@ type: tag
 title: VFX
 slug: VFX
 category: VFX
-sidebar: true
+sidebar: False
 description: >
   Posts about visual effects
 ---
