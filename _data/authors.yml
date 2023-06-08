@@ -2,13 +2,13 @@
 # Must be the same as `author` in `_config.yml`.
 # Change `author1` to your shortname.
 author1:
-  name:              DaeIn Lee
-  email:             daein0lee@gmail.com
+  name:              James Watson
+  email:             jamiewatson62@gmail.com
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    HANA Core Developer at [SAP Labs Korea](https://www.sap.com/korea/about/labs-korea.html).<br>
+    Cyber Security Graduate, Currently looking for Work []().<br>
     Please check my [Resume][resume] to find out more about me!<br>
 
     [resume]: /resume/
@@ -26,10 +26,10 @@ author1:
   # Rearrange to change the order in which they appear
   social:
     linkedin:        daein-lee-3b6ba9139
-    github:          lazyren
-    stackoverflow:   4294737
-    email:           lazy0ren@gmail.com
-    # rss:             https://lazyren.github.io/feed.xml
+    github:          jimba86
+    stackoverflow:   
+    email:           jamiewatson62@gmail.com
+    # rss:             https://jimba86.github.io/feed.xml
     # facebook:        <username>
     # google:          <number>
     # vk:              <username>
