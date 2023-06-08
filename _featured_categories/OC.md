@@ -1,5 +1,6 @@
 ---
 layout: list
+type: category
 title: OC
 slug: OC
 description: > 
