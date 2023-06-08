@@ -1,5 +1,6 @@
 ---
 layout: list
+type: category
 title: ML
 slug: ML
 description: > 
