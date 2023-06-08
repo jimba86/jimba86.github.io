@@ -11,7 +11,7 @@ order: 1
 
 Hi, I'm **James Watson**, *a.k.a.* **jimba**.<br>
 I'm currently searching for a role within cyber security field, and previsouly was MIT student of **[Queensland University of Technology]**.<br>
-I like to learn about intresting things. I am currently learning programing to imrpove my skills<br>
+I like to learn about intresting things. I am currently learning Python programing to imrpove my skills<br>
 And I'm also a [Computer overclocker] and a im a [keen gamer]!<br>
 Pleaseh check my [resume] if you wish to know more about me.
 
@@ -59,6 +59,6 @@ based on the jekyll theme [Hydejack].
 [Queensland University of Technology]: https://www.qut.edu.au/
 [keen gamer]: https://steamcommunity.com/profiles/76561198009938890
 [resume]: /resume/
-[computer overclocker] https://hwbot.org/user/jimba
+[computer overclocker]:  https://hwbot.org/user/jimba
 []: 
 [Hydejack]: https://hydejack.com
