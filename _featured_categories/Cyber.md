@@ -1,5 +1,6 @@
 ---
 layout: list
+type: category
 title: Cyber - General
 slug: Cyber
 Description: 
