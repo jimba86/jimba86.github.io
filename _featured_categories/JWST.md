@@ -1,5 +1,6 @@
 ---
 layout: grid
+type: category
 title: James Webb Space Telescope
 slug: Space
 description: > 
