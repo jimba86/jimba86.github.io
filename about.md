@@ -15,6 +15,7 @@ I like to learn about intresting things. I am currently learning Python programi
 And I'm also a [Computer overclocker] and a im a keen [gamer]!<br>
 Pleaseh check my [resume] if you wish to know more about me.
 
+I am still making this website, so it might not work properly at the moment.
 ***
 
 <!--posts_list-->
@@ -57,7 +58,7 @@ Currently under construction.
 
 <!-- Links -->
 [Queensland University of Technology]: https://www.qut.edu.au/
-[keen gamer]: https://steamcommunity.com/profiles/76561198009938890
+[gamer]: https://steamcommunity.com/profiles/76561198009938890
 [resume]: /resume/
 [computer overclocker]:  https://hwbot.org/user/jimba 
 [Hydejack]: https://hydejack.com
