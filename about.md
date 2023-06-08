@@ -11,8 +11,8 @@ order: 1
 
 Hi, I'm **James Watson**, *a.k.a.* **jimba**.<br>
 I'm currently searching for a role within cyber security field, and previsouly was a MIT student at **[Queensland University of Technology]**.<br>
-I like to learn about intresting things. I am currently learning Python programing to imrpove my skills<br>
-And I'm also a [Computer overclocker] and a im a keen [gamer]!<br>
+I like to learn about intresting things. I am currently learning Python programing to imrpove my skills alongside machine learning.<br>
+Besides Cyber sec and related fields I'm also a [Computer overclocker] and a im a keen [gamer]! I also am making my own game, details are early development stage<br>
 Pleaseh check my [resume] if you wish to know more about me.
 
 I am still making this website, so it might not work properly at the moment.
