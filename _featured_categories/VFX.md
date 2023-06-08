@@ -1,5 +1,6 @@
 ---
 layout: list
+type: category
 title: VFX
 slug: VFX
 description: > 
