@@ -13,3 +13,7 @@ A Round up of the Scores and excitment of Gskills 2023 Edition of the OC World C
 What is the Gskill OC Cup?
 
 ![Competitors](/assets/img/2023-06-07/Gskill WR stage contentants .jpg){: .centered}
+
+Besides the competitors it was sad note as this was EVGAs last offical OC cup.
+
+Kingpin appeared (/aasets/img/2023-06-07/Kingpin.jpg) as did the famous overclocker Shamino representing Asus ![Shamino](/assets/img/2023-06-07/Gskill OC Stage Shamino.jpg)
