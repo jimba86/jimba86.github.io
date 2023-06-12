@@ -3,7 +3,7 @@ layout: post
 title: "About Collie Carnage"
 subtitle: "Introduction to Collie Carnage"
 category: devlog
-tags: Game-dev collie carnage
+tags: Gamedev collie carnage
 image:
   path: 
 ---
