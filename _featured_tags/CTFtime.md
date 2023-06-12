@@ -4,7 +4,7 @@ type: tag
 title: CTFtime
 slug: CTFtime
 category: Cyber
-sidebar: false
+sidebar: True
 description: >
    CTFtime challenge writeups
 ---
