@@ -6,5 +6,5 @@ slug: RedTeaming
 category: Cyber
 sidebar: true
 description: >
-   Cybersecurity Red Team Related posts
+   Post about the offensive side 
 ---
