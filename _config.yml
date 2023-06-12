@@ -189,7 +189,7 @@ kramdown:
 
 # Set your Google Analytics id to receive `pageview` events.
 # To remove Google Analytics from your page, remove the line below.
-google_analytics:      UA-68290006-3
+# google_analytics:      UA-68290006-3
 
 # Set which comment system to use
 comments:
@@ -212,11 +212,11 @@ comments:
 # You must install giscus github app before use.(https://github.com/apps/giscus)
 # Make sure all variables are set properly. Check below link for detail.
 # https://giscus.vercel.app/
-giscus:
-  repo:                "LazyRen/LazyRen.github.io"
-  repo-id:             "MDEwOlJlcG9zaXRvcnkyNzU4Mjk1NTc="
+# giscus:
+#  repo:                "LazyRen/LazyRen.github.io"
+#  repo-id:             "MDEwOlJlcG9zaXRvcnkyNzU4Mjk1NTc="
   category:            "Comments"
-  category-id:         "DIC_kwDOEHDTNc4B-MIg"
+ # category-id:         "DIC_kwDOEHDTNc4B-MIg"
   mapping:             "pathname"
   reaction-enabled:    "1"
   data-emit-metadata:  "0"
@@ -410,12 +410,12 @@ google_site_verification: "zIn7l_GwuOi4WnyRQsdhI9Jpn6IAs0SLR_4HG8OZzsM"
 #   publisher:           <id>
 #   admins:              <id>
 
-# Used on index and about sites
+ Used on index and about sites
 # social:
 #   name:                <firstname> <lastname>
 #   links:
 #     - https://twitter.com/<username>
-#     - https://github.com/<username>
+     - https://github.com/<jimba86>
 
 
 # Plugin Configs
@@ -480,5 +480,5 @@ jekyll_compose:
 feed:
   categories:
     - devlog
-    - review
+    - OC
     - studylog
