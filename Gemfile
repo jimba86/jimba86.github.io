@@ -18,5 +18,6 @@ end
 
 gem 'wdm' if Gem.win_platform?
 gem 'tzinfo-data' if Gem.win_platform?
+gem "x86_64-linux"
 
 gem "webrick", "~> 1.7"
