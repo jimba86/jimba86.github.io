@@ -4,7 +4,7 @@ type: tag
 title: TryHackme
 slug: TryHackme
 category: Cyber
-sidebar: false
+sidebar: true
 description: >
    TryHackme challenge writeups
 ---
