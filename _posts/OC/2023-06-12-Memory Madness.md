@@ -16,6 +16,13 @@ To Begin I will start with DDR3 as that I what im using in my OC fun at the mome
 
 Kit # Corsair GTX1 2400 CL9-11-9 PSC
 
+
+![GTX1](/assets/img/2023-06-07/GTX1 in UD6.JPG) {:.centered width="80%"}
+
+Corsair GTX1 in the P55A-UD6
+{:.figcaption}
+
+
 After seeing this kit be used in days of 1156 I thought it would be cool to find a kit and so after much hunting I got very lucky and found one.
 
 This is a very early revision kit with a 8.1 instead of corsair usual 7.1 number to indicate IC type, in this case PSC (powerchip semi conducter)
