@@ -27,8 +27,7 @@ timezone:             Brisbane/Queensland
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  Work Hard to be Lazy.
-  SW Engineer at Samsung Research.
+  Computer Geek, Music Nerd and History nut. Aspiring competitive overclocker.
 
 # A shorter description for the sidebar.
 tagline:               >
@@ -40,14 +39,14 @@ keywords:              ["Development", "OC", "Gaming", "ML"]
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
 # It also used by the `jekyll-seo-tag` plugin.
-logo:                  /assets/img/seattle.png
+logo:                  /assets/img/Jamie profile picture (Medium).JPG
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   # Used by `jekyll-feed`:
   name:                James Watson
   email:               jamiewatson62@gmail.com@gmail.com
-  picture:             /assets/img/seattle.png
+  picture:             /assets/img/Jamie profile picture (Medium).JPG
   social:
     linkedin:          daein-lee-3b6ba9139
     github:            jimba86
