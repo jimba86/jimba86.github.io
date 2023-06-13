@@ -16,6 +16,8 @@ To Begin I will start with DDR3 as that I what im using in my OC fun at the mome
 
 PSC:
 
+PSC standards for Powerchip semiconducter a tiwanese memory manufacter. PSC IC memory kits are known for high frequency with tight timings.
+
 Corsair GTX Series:
 
 Corsair GTX is the top of the line series of ultra fast, individually binned per stick memory modules avaliable from corsair. The series has been a favorite of overclockers and have been used in many world records.
