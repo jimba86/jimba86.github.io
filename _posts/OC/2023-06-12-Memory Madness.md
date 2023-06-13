@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "An overview of my ram collection"
-subtitle: "Exploring High end DDR2 and DDR3 memory kits"
+subtitle: "Exploring my collection of DDR3 memory kits"
 category: OC
 tags: OC
 image:
