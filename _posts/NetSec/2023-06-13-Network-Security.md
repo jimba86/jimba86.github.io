@@ -2,8 +2,8 @@
 layout:   post
 title:    "PSecure your Network"
 subtitle: "Simple Solutions for hardening your home network"
-category: studylog
-tags:     programming
+category: cyber
+tags:     netsec
 image:
   path:   
 ---
