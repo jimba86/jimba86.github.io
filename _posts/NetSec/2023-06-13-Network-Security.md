@@ -2,8 +2,8 @@
 layout:   post
 title:    "Secure your Network"
 subtitle: "Simple Solutions for hardening your home network"
-category: Cyber - General
-tags: netsec
+category: Cyber
+tags: Netsec
 image:
   path:   
 ---
