@@ -3,7 +3,7 @@ layout: post
 title: "Collie Carnage Design Document"
 subtitle: "Design Document of the Video Game Collie Carnage"
 category: Devlog
-Tags: Game Dev
+Tags: Game Dev collie-carnage
 ---
 
 Game Document for Collie Carnage
