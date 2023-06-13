@@ -5,7 +5,7 @@ subtitle: "Exploring my collection of DDR3 memory kits"
 category: OC
 tags: OC
 image:
-  path: assets/img/2023-06-07/flare UD6.jpg
+  path: assets/img/2023-06-12/DSC_1032[1].JPG
 ---
 
 So I have being using some pretty cool memory kits, but what else do I have in my collection?
