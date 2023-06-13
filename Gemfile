@@ -14,7 +14,7 @@ group :jekyll_plugins do
   gem 'github-pages'
   gem 'jekyll-include-cache'
   gem 'jekyll-compose'
-  gem 'faraday-retry'
+  gem `faraday-retry`
 end
 
 gem 'wdm' if Gem.win_platform?
