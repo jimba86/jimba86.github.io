@@ -7,14 +7,14 @@ basics:
   website: "https://jimba86.github.io/"
   summary: >
     Hello, I'm James Watson, an emerging Cyber Security profesional.<br>
-    I like to help in the defense of important areas of cyber secuirty.<br>
+    I like to help in the defense of important areas of cyber security.<br>
     I am a keen learner who has dogged determination for success on given tasks;<br>
     Besides Cyber Sec, I am a keen overclocker and aspiring musician.
-  # location:
+   location:
   #   address: "By Request"
   #   postalCode: "4179"
   #   city: "Brisbane"
-  #   countryCode: "AU"
+     countryCode: "AU"
   #   region: "Queensland"
   profiles:
     - network: "Github"
@@ -37,7 +37,7 @@ work:
     highlights:
   - company: "TBC"
     position: "TBC"
-    website: "https://research.samsung.com/"
+    website: 
     startDate: "2020-02-03"
     endDate: "2020-12-31"
     summary: >
@@ -46,7 +46,7 @@ work:
       - "My Job"
   - company: "TBC"
     position: "TBC"
-    website: "https://research.samsung.com/"
+    website: 
     startDate: "2019-06-24"
     endDate: "2019-08-30"
     summary:
@@ -55,7 +55,7 @@ work:
       - "TBC"
   - company: "TBC"
     position: "TBC"
-    website: "https://www.lgcns.co.kr/"
+    website: 
     startDate: "2019-01-03"
     endDate: "2019-02-28"
     summary:
@@ -65,7 +65,7 @@ work:
       - "TBC"
   - company: "TBC"
     position: "TBC"
-    website: "https://fortify.pro/"
+    website: 
     startDate: "2018-07-08"
     endDate: "2018-08-24"
     summary:
