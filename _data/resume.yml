@@ -23,15 +23,15 @@ basics:
     - network: "LinkedIn"
       username: "James Watson"
       url: "https://www.linkedin.com/in/james-watson-34348aa1/"
-    - network: "Hwbot"
+    - network: "Hwbot.org"
       username: "jimba"
       url: "https://hwbot.org/user/jimba/"
 work:
-  - company: "TBC"
-    position: "TBC"
+  - company: "Multicap Limited"
+    position: "Packaging specialist"
     website: https://www.multicap.org"
-    startDate: "2021-01-11"
-    endDate: ""
+    startDate: "2021-06-11"
+    endDate: "2021-03-12"
     summary: >
      Assembly of Packages for Clients
     highlights:
@@ -130,20 +130,20 @@ projects:
       - "Github Fundementals"
       - "Jekyll and blogging functions"
       - "Website Development"
-  - title: "TBC"
-    startDate: "2019-10-01"
-    endDate: "2019-10-31"
-    summary: "TBC"
-    url: "https://github.com/LazyRen/2019-Concurrent-Programming/tree/master/project3"
+  - title: "Collie Carnage Video Game"
+    startDate: "2019-10-15"
+    endDate: 
+    summary: "Video Game Created in unreal Engine inspired by Dogs,untitled goose game and wanted raccoon"
+    url: 
     highlights:
-      - "TBC'"
-      - "TBC"
-      - "TBC"
+      - "Unreal Engine Development'"
+      - "3D Asset Creation"
+      - "Photorealistic texturing"
   - title: "TBC"
-    startDate: "2018-03-02"
-    endDate: "2018-06-22"
+    startDate: 
+    endDate: 
     summary: "TBC"
-    url: "https://github.com/LazyRen/2018-Operating-Systems"
+    url: 
     highlights:
       - "TBC"
       - "TBC"
@@ -174,7 +174,7 @@ awards:
     summary: ""
 publications:
  - name: "Combo-GAN"
-   publisher: "QUT"
+   publisher: "Queensland University of Technology"
    releaseDate: "2021-07-11"
    website: "www.jimba86.github/publications"
    summary: "Innovative GAN based IDS to imrpove efficency"
@@ -185,6 +185,12 @@ skills:
       - "System Mangement"
       - "Cryptography"
       - "Computer Security"
+  - name: "Game Development"
+    level: "Intermediate"
+    keywords:
+      - "Unreal Engine"
+      - "3D Asset creation"
+      - "Vray Rendering"
   - name: "Computer Overclocking"
     level: "Intermediate"
   - name: "Web Development"
@@ -218,7 +224,7 @@ interests:
     keywords:
       - "Board Games"
       - "<a href='https://steamcommunity.com/profiles/76561198009938890'>Steam</a>"
-      - "<a href='http://www.companyofheroes.com/leaderboards#profile/steam/76561198031392006/standings'>Company of Heroes 2</a>"
+      - "<a href='https://worldoftanks.com/en/community/accounts/1000654434-jimba86/>World of Tanks</a>"
 # references:
 #   - name: "Erlich Bachman"
 #     reference: >
