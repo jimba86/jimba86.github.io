@@ -3,7 +3,7 @@ layout: resume
 title: Resume
 permalink: /resume/
 description: >
-  Hi, I'm DaeIn Lee, SW engineer at Samsung Research.
+  Hi, I'm James Watson, Cyber Security Specialist. I focus on Network and AI
 hide_description: true
 sidebar: true
 order: 5
