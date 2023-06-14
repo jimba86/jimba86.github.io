@@ -6,7 +6,7 @@ description: >
   Hi, I'm James Watson, Cyber Security Specialist. I focus on Network and AI
 hide_description: true
 sidebar: true
-order: 5
+order: 6
 left_column:
  - work
  - education
