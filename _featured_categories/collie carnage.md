@@ -2,7 +2,7 @@
 layout: list
 type: category
 title: Collie Carnage
-slug: Game Dev
+slug: collie-carnage
 description: > 
-    Post about Collie Carnage - Currenlty in early development. 
+    Post about Collie Carnage - Currently in early development. 
 ---
