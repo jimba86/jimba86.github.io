@@ -34,7 +34,7 @@ work:
     highlights:
   - company: "TBC"
     position: "TBC"
-    website: "https://research.samsung.com/"
+    website: 
     startDate: "2020-02-03"
     endDate: "2020-12-31"
     summary: >
@@ -43,7 +43,7 @@ work:
       - "My Job"
   - company: "TBC"
     position: "TBC"
-    website: "https://research.samsung.com/"
+    website: 
     startDate: "2019-06-24"
     endDate: "2019-08-30"
     summary:
@@ -52,7 +52,7 @@ work:
       - "TBC"
   - company: "TBC"
     position: "TBC"
-    website: "https://www.lgcns.co.kr/"
+    website: 
     startDate: "2019-01-03"
     endDate: "2019-02-28"
     summary:
@@ -62,7 +62,7 @@ work:
       - "TBC"
   - company: "TBC"
     position: "TBC"
-    website: "https://fortify.pro/"
+    website: 
     startDate: "2018-07-08"
     endDate: "2018-08-24"
     summary:
@@ -127,11 +127,11 @@ projects:
       - "Github Fundementals"
       - "Jekyll and blogging functions"
       - "Website Development"
-  - title: "TBC"
+  - title: "Collie Carnage Video Game"
     startDate: "2019-10-01"
-    endDate: "2019-10-31"
-    summary: "TBC"
-    url: "https://github.com/LazyRen/2019-Concurrent-Programming/tree/master/project3"
+    endDate: 
+    summary: "Unreal Engine 5 Based video Game, in the early development stages"
+    url:
     highlights:
       - "TBC'"
       - "TBC"
@@ -140,7 +140,7 @@ projects:
     startDate: "2018-03-02"
     endDate: "2018-06-22"
     summary: "TBC"
-    url: "https://github.com/LazyRen/2018-Operating-Systems"
+    url: 
     highlights:
       - "TBC"
       - "TBC"
