@@ -134,7 +134,7 @@ projects:
     startDate: "2019-10-15"
     endDate: 
     summary: "Video Game Created in unreal Engine inspired by Dogs life,untitled goose game and wanted raccoon"
-    url: 
+    url: "https://jimba86.github.io/colliecarnage"
     highlights:
       - "Unreal Engine Development'"
       - "3D Asset Creation"
@@ -176,7 +176,7 @@ publications:
  - name: "Combo-GAN"
    publisher: "Queensland University of Technology"
    releaseDate: "2021-07-11"
-   website: "www.jimba86.github/publications"
+   website: "www.jimba86.github/publications/"
    summary: "Innovative GAN based IDS to imrpove efficency"
 skills:
   - name: "Cyber Security"
