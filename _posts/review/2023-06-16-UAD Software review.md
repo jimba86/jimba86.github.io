@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "UAD Software"
-subtitle: "AUniversal Audio Software Plugin  Review"
+subtitle: "Universal Audio Software Plugin  Review"
 category: review
 tags: software
 image:
