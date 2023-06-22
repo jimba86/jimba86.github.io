@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Why is cyber so important for people and business"
-subtitle: "Why is cyber so important for people and business"
+title: "What is Repojacking"
+subtitle: "Repojacking- What is it and how to protect yourself from it"
 category: Cyber - General
 tags: Cyber
 ---
