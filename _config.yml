@@ -27,7 +27,7 @@ timezone:             Brisbane/Queensland
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  Computer Geek, Music Nerd and History nut. Aspiring competitive overclocker.
+  Computer Geek, Music Nerd, and History nut. Aspiring competitive overclocker and musician.
 
 # A shorter description for the sidebar.
 tagline:               >
@@ -92,7 +92,7 @@ excerpt_separator:     <!--more-->
 accent_image:
   background:          center / cover url(/assets/img/music-cat-no-loop.gif)
   overlay:             false
-accent_color:          rgb(0,174,239)
+accent_color:          rgb(0,175,239)
 
 # This is used for the `theme-color` meta tag,
 # which changes the background color of the browser UI in certain browsers.
@@ -188,7 +188,7 @@ kramdown:
 
 # Set your Google Analytics id to receive `pageview` events.
 # To remove Google Analytics from your page, remove the line below.
-google_analytics:      UA-68290006-3
+
 
 # Set which comment system to use
 comments:
@@ -203,7 +203,7 @@ comments:
 # Make sure all variables are set properly. Check below link for detail.
 # https://utteranc.es/
 # utterances:
-#   repo:                "LazyRen/LazyRen.github.io"
+#   repo:                ""
 #   issue-term:          "pathname"
 #   label:               "Comments"
 #   theme:               "photon-dark"
@@ -400,8 +400,8 @@ google_site_verification: "zIn7l_GwuOi4WnyRQsdhI9Jpn6IAs0SLR_4HG8OZzsM"
 #   yandex:              <verification-id>
 
 # Used for twitter cards
-# twitter:
-#   username:            <username>
+ twitter:
+   username:            <Sgtbomb>
 
 # Used for facebook open graph
 # facebook:
@@ -414,7 +414,7 @@ google_site_verification: "zIn7l_GwuOi4WnyRQsdhI9Jpn6IAs0SLR_4HG8OZzsM"
 #   name:                <firstname> <lastname>
 #   links:
 #     - https://twitter.com/<username>
-#     - https://github.com/<username>
+#     - https://github.com/jimba86
 
 
 # Plugin Configs
