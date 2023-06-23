@@ -206,3 +206,7 @@ keybase:
 download:
   name: Download
   icon: icon-box-add
+  hwbot:
+  name: Hwbot
+  icon: icon-key
+  prepend: "https://hwbot.org/"
