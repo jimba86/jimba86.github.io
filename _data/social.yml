@@ -209,7 +209,7 @@ download:
 hwbot:
   name: Hwbot
   icon: icon-hwbot
-  prepend: "https://hwbot.org/"
+  prepend: "https://hwbot.org/user/"
 hackthebox:
   name: Hackthebox
   icon: icon-hackthebox
