@@ -105,6 +105,14 @@ github:
   name: GitHub
   icon: icon-github
   prepend: "https://github.com/"
+hwbot:
+  name: Hwbot
+  icon: icon-hwbot
+  prepend: "https://hwbot.org/user/"
+hackthebox:
+  name: Hackthebox
+  icon: icon-hackthebox
+  prepend: "https://app.hackthebox.com/profile/"
 npm:
   name: npm
   icon: icon-npm
@@ -206,11 +214,4 @@ keybase:
 download:
   name: Download
   icon: icon-box-add
-hwbot:
-  name: Hwbot
-  icon: icon-hwbot
-  prepend: "https://hwbot.org/user/"
-hackthebox:
-  name: Hackthebox
-  icon: icon-hackthebox
-  prepend: "https://app.hackthebox.com/profile/"
+
