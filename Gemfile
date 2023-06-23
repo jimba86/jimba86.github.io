@@ -15,7 +15,6 @@ group :jekyll_plugins do
   gem 'jekyll-include-cache'
   gem 'jekyll-compose'
   gem `faraday-retry`
-  gem 'jekyll-font-awesome-sass'
 end
 
 gem 'wdm' if Gem.win_platform?
