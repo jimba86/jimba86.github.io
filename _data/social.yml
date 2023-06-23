@@ -206,7 +206,11 @@ keybase:
 download:
   name: Download
   icon: icon-box-add
-  hwbot:
+hwbot:
   name: Hwbot
-  icon: icon-key
+  icon: icon-hwbot
   prepend: "https://hwbot.org/"
+hackthebox:
+  name: Hackthebox
+  icon: icon-hackthebox
+  prepend: "https://app.hackthebox.com/profile/"
