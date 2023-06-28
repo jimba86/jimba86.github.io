@@ -115,6 +115,20 @@ education:
       - "Classical World"
       - "Database Systems"
       - "Games Programming"
+      
+  - institution: "Southbank Insitute of TAFE"
+    area: "Games and Interactive Entertainment "
+    studyType: "Diploma"
+    startDate: "2010-02-10"
+    endDate: "2011-06-21"
+    gpa: "5.2 / 7.0"
+    courses:
+      - "3D Animation"
+      - "2D Animation"
+      - "Game Development"
+      - "Drawing for Animation" (Taught by Patrick J Jones)
+      - "Motion Capture Systems"
+      - "Games Programming"
   - certificate: "Machine Learning For Business Professionals"
     date: "2019-11-22"
 projects:
