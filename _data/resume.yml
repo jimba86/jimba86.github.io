@@ -26,49 +26,27 @@ basics:
 work:
   - company: "Multicap Limited"
     position: "Packaging specialist"
-    website: https://www.multicap.org"
+    website: "https://www.multicap.org"
     startDate: "2020-06-11"
     endDate: "2021-03-12"
     summary: >
      Assembly of Packages for Clients
     highlights:
+      - "Metalwork"
+      - "Logistics management"
+      - "Working with people with disabilities"
   - company: "Wallum Nurseries"
     position: "Nursery Hand"
-    website: https://www.wallumnurseries.com/"
+    website: "https://www.wallumnurseries.com/"
     startDate: "2020-06-03"
     endDate: "2016-03-05"
     summary: >
      Nursery related tasks
     highlights:
-      - "My Job"
-  - company: "TBC"
-    position: "TBC"
-    website: 
-    startDate: "2019-06-24"
-    endDate: "2019-08-30"
-    summary:
-    highlights:
-      - "TBC"
-      - "TBC"
-  - company: "TBC"
-    position: "TBC"
-    website: 
-    startDate: "2019-01-03"
-    endDate: "2019-02-28"
-    summary:
-    highlights:
-      - "TBC"
-      - "TBC"
-      - "TBC"
-  - company: "TBC"
-    position: "TBC"
-    website: 
-    startDate: "2018-07-08"
-    endDate: "2018-08-24"
-    summary:
-    highlights:
-      - "TBC"
-      - "TBC"
+      - "Growing of native Australian plant species"
+      - "OHS Documentation"
+      - "Office work"
+
 volunteer:
   - organization: "TBC"
     position: "TBC"
@@ -98,8 +76,8 @@ education:
       - "Mobile Network Engineering"
       - "Advanced Cryptography"
       - "Advanced Business Analysis"
-      - "IT Goverance"
-      - "Infomation Security Mangement"
+      - "IT Governance"
+      - "Infomation Security Management"
       - "Research in IT Practice"
 
   - institution: "Queensland University of Technology, Brisbane"
@@ -138,18 +116,18 @@ projects:
     summary: "Personal Website"
     url: "https://jimba86.github.io"
     highlights:
-      - "Github Fundementals"
+      - "Github Fundamentals"
       - "Jekyll and blogging functions"
       - "Website Development"
   - title: "Collie Carnage Video Game"
     startDate: "2019-10-01"
     endDate: 
-    summary: "Unreal Engine 5 Based video Game, in the early development stages"
+    summary: "Unreal Engine 5 Based Video Game, in the early development stages"
     url: https://jimba86.github.io/tag-game-dev/
     highlights:
-      - "TBC'"
-      - "TBC"
-      - "TBC"
+      - "Asset Creation"
+      - "Unreal Engine"
+      - "Realistic Rendering"
   - title: "TBC"
     startDate: "2018-03-02"
     endDate: "2018-06-22"
@@ -188,12 +166,12 @@ publications:
    publisher: "QUT"
    releaseDate: "2021-07-11"
    website: "www.jimba86.github/publications"
-   summary: "Innovative GAN based IDS to imrpove efficency"
+   summary: "Innovative GAN-based IDS to improve efficiency"
 skills:
   - name: "Cyber Security"
     level: "Intermediate"
     keywords:
-      - "System Mangement"
+      - "System Management"
       - "Cryptography"
       - "Computer Security"
   - name: "Computer Overclocking"
@@ -223,7 +201,7 @@ interests:
   - name: "Reading"
     keywords:
       - "Clive Cussler"
-      - "Bibographies"
+      - "Biographies"
       - "Book Club Selections"
   - name: "Gaming"
     keywords:
