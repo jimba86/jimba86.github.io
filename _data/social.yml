@@ -214,4 +214,8 @@ keybase:
 download:
   name: Download
   icon: icon-box-add
+  keybase:
+  name: Hwbot
+  icon: icon-hwbot
+  prepend: "https://hwbot.org/user/"
 
