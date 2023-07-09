@@ -27,7 +27,7 @@ timezone:              Asia/Seoul
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  Cann you Hack me, Bro? Website is currently under construction.
+  Cann you Hack me, Bro? The website is currently under construction.
 
 # A shorter description for the sidebar.
 tagline:               >
@@ -52,6 +52,7 @@ author:
     github:            jimba86
     hwbot:             jimba
     email:             jamiewatson62@gmail.com@gmail.com
+    hackthebox:        380594
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
