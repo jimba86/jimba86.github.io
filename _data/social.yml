@@ -220,6 +220,6 @@ download:
   prepend: "https://hwbot.org/user/"
   hackthebox:
   name: Hackthebox
-  icon: icon-hackthebox
+  icon: {{< image src="https://www.hackthebox.eu/badge/image/161927" alt="Hack The Box" style="max-width: 256px; display: inline" >}}
   prepend: "https://app.hackthebox.com/profile/"
 
