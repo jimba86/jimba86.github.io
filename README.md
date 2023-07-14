@@ -3,8 +3,8 @@
 ## [About Me]
 
 Hello, there!<br>
-This blog is to show off my Cyber securirty skills and other intrests.<br>
-This page will serve as website and a personal blog.<br>
+This blog is to show off my Cyber security skills and other interests.<br>
+This page will serve as a website and a personal blog.<br>
 
 Please feel free to contact me for any questions!
 
