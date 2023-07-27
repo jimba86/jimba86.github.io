@@ -24,11 +24,11 @@ basics:
       username: "James Watson"
       url: "https://www.linkedin.com/in/james-watson-34348aa1/"
 work:
-  - company: "TBC"
-    position: "TBC"
+  - company: "Multicap"
+    position: "Packaging specialist"
     website: https://www.multicap.org"
-    startDate: "2021-01-11"
-    endDate: ""
+    startDate: "2020-07-11"
+    endDate: "2021-03-12"
     summary: >
      Assembly of Packages for Clients
     highlights:
