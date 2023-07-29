@@ -87,7 +87,8 @@ education:
       - "Classical World"
       - "Database Systems"
       - "Games Programming"
-  - institution: "Southbank Institute of Technology (TAFE), Brisbane"
+      
+  - institution: "Southbank Institute of Technology, Brisbane"
     area: "Games and Interactive Entertainment "
     studyType: "Diploma"
     startDate: "2010-02-02"
@@ -97,9 +98,10 @@ education:
       - "3D Animation"
       - "2D Animation"
       - "Game Development"
-      - "Drawing for Animation" (Taught by Patrick J Jones)
+      - "Drawing for Animation"
       - "Database Systems"
       - "Games Programming"
+      
   - certificate: "Machine Learning For Business Professionals"
     date: "2019-11-22"
 projects:
