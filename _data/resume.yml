@@ -25,50 +25,22 @@ basics:
       url: "https://www.linkedin.com/in/james-watson-34348aa1/"
 work:
   - company: "Multicap"
-    position: "TBC"
+    position: "Logistics Assistant"
     website: https://www.multicap.org"
     startDate: "2020-06-20"
     endDate: "2021-03-15"
     summary: >
      Assembly of Packages for Clients
     highlights:
-  - company: "TBC"
-    position: "TBC"
-    website: "https://research.samsung.com/"
-    startDate: "2020-02-03"
-    endDate: "2020-12-31"
+  - company: "Wallum Nurseries"
+    position: "Nursery Hand"
+    website: "https://www.wallumnurseries.com/"
+    startDate: "2016-03-05"
+    endDate: "2020-06-17"
     summary: >
-     Job Infomation Here
+     Horticultural Task and Excel data management
     highlights:
-      - "My Job"
-  - company: "TBC"
-    position: "TBC"
-    website: "https://research.samsung.com/"
-    startDate: "2019-06-24"
-    endDate: "2019-08-30"
-    summary:
-    highlights:
-      - "TBC"
-      - "TBC"
-  - company: "TBC"
-    position: "TBC"
-    website: "https://www.lgcns.co.kr/"
-    startDate: "2019-01-03"
-    endDate: "2019-02-28"
-    summary:
-    highlights:
-      - "TBC"
-      - "TBC"
-      - "TBC"
-  - company: "TBC"
-    position: "TBC"
-    website: "https://fortify.pro/"
-    startDate: "2018-07-08"
-    endDate: "2018-08-24"
-    summary:
-    highlights:
-      - "TBC"
-      - "TBC"
+      - Australian Native Plant Species and the requirements of successful fuana mangement
 volunteer:
   - organization: "TBC"
     position: "TBC"
@@ -98,8 +70,8 @@ education:
       - "Mobile Network Engineering"
       - "Advanced Cryptography"
       - "Advanced Business Analysis"
-      - "IT Goverance"
-      - "Infomation Security Mangement"
+      - "IT Governance"
+      - "Infomation Security Management"
       - "Research in IT Practice"
 
   - institution: "Queensland University of Technology, Brisbane"
@@ -113,6 +85,19 @@ education:
       - "2D Animation"
       - "Game Development"
       - "Classical World"
+      - "Database Systems"
+      - "Games Programming"
+  - institution: "Southbank Institute of Technology (TAFE), Brisbane"
+    area: "Games and Interactive Entertainment "
+    studyType: "Diploma"
+    startDate: "2010-02-02"
+    endDate: "2011-06-21"
+    gpa: "5.2/ 7.0"
+    courses:
+      - "3D Animation"
+      - "2D Animation"
+      - "Game Development"
+      - "Drawing for Animation" (Taught by Patrick J Jones)
       - "Database Systems"
       - "Games Programming"
   - certificate: "Machine Learning For Business Professionals"
@@ -136,15 +121,6 @@ projects:
       - "TBC'"
       - "TBC"
       - "TBC"
-  - title: "TBC"
-    startDate: "2018-03-02"
-    endDate: "2018-06-22"
-    summary: "TBC"
-    url: "https://github.com/LazyRen/2018-Operating-Systems"
-    highlights:
-      - "TBC"
-      - "TBC"
-      - "TBC"
 awards:
   - title: "TBC"
     awarder: "TBC"
@@ -159,14 +135,6 @@ awards:
       - "TBC"
   - title: "TBC"
     date: "2018-11-17"
-    awarder: "TBC"
-    summary: ""
-  - title: "TBC"
-    date: "2017-12-09"
-    awarder: "TBC"
-    summary: ""
-  - title: "TBC"
-    date: "2017-09-09"
     awarder: "TBC"
     summary: ""
 publications:
