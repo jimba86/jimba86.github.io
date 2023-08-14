@@ -1,1 +1,2 @@
-GPTbot: /disallow
+User-agent: GPTbot
+Disallow: /
